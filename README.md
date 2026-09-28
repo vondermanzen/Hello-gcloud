@@ -5,8 +5,9 @@
 This course is available for multiple cloud providers. Choose your preferred platform:
 
 - [Hello Google Cloud](https://github.com/Oxford-Research-Cloud-Competency-Centre/Hello-gcloud) (You are here)
-- [Hello Microsoft Azure](https://github.com/Oxford-Research-Cloud-Competency-Centre/Hello-mazure)
+- [Hello Microsoft Azure](https://github.com/Oxford-Research-Cloud-Competency-Centre/Hello-azure)
 - [Hello Amazon Web Services](https://github.com/Oxford-Research-Cloud-Competency-Centre/Hello-aws) (⭐ Most popular)
+- [Hello IBM Cloud](https://github.com/Oxford-Research-Cloud-Competency-Centre/Hello-ibm-cloud)
 
 # Instructions
 
